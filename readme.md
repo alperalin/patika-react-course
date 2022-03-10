@@ -5,7 +5,7 @@ This is the first homework of patika react course series.
 ## How To Run
 
 ```
-	node --experimental-modules app.js
+node --experimental-modules app.js
 ```
 
 ## Homework
