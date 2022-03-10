@@ -1,0 +1,23 @@
+{
+	"name": "patika-react-course",
+	"version": "1.0.0",
+	"description": "Patika React Course Homeworks",
+	"main": "app.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/alperalin/patika-react-course.git"
+	},
+	"author": "Alper ALIN",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/alperalin/patika-react-course/issues"
+	},
+	"homepage": "https://github.com/alperalin/patika-react-course#readme",
+	"dependencies": {
+		"axios": "^0.26.1"
+	}
+}
